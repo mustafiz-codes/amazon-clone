@@ -23,4 +23,7 @@ function App() {
   );
 }
 
+
+// echo "# amazon-clone" >> README.md
+
 export default App;
