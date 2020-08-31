@@ -2,6 +2,9 @@
     background-color: #131921;
     display: flex;
     align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
 
 .header_logo{
@@ -26,4 +29,39 @@
     color: #131921;
     padding: 5px;
     height: 22px !important;
+}
+
+.header_nav{
+    display: flex;
+    /* flex: 1; */
+    justify-content: space-evenly;
+}
+
+.header_link{
+    color: white;
+    text-decoration: none;
+}
+
+.header_option{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 10px;
+}
+
+.header_op_one{
+    font-size: 10px;
+}
+
+.header_op_two{
+    font-size: 13px;
+    font-weight: 800;
+}
+
+.header_option_basket{
+    display: flex;
+    align-items: center;
+}
+
+.header_basket_count{
+    margin: 0px 10px;
 }
