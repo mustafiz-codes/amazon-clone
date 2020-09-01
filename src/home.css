@@ -2,6 +2,7 @@
     max-width: 1500px;
     margin: auto;
     padding: auto;
+    background-color: rgba(131, 131, 131, .07);
 }
 
 .home_row{

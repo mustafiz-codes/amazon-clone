@@ -24,19 +24,22 @@
 .product_rating{
     display: flex;
     flex-direction: row;
-    color: gold;
+    color: #f0c14b;
+
 }
 
 .product > img{
     max-width: 200px;
+    height: 200px ;
     width: 100%;
     object-fit: contain;
     margin-bottom: 15px;
 }
 
 .product > button{
-    background-color: gold;
+    background-color: #f0c14b;
     border: 1px solid;
-    border-color: #a88734,  #9c7e31,  #846a29, ;
+    border-color: #a88734,  #9c7e31,  #846a29;
+    padding: 5px 20px;
 }
 

@@ -17,35 +17,35 @@ function Home() {
                     image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Lod0StyO1YKop-XnMT3a4AHaL0%26pid%3DApi&f=1"
                 />
                 <Product
-                    id="1612020100"
-                    title="Paper Craft: lorem external -content. duckduckgo.com"
-                    price="11.26"
+                    id="1612020103"
+                    title="Iphone X: lorem external -content. duckduckgo.com"
+                    price="12.26"
                     rating={4}
-                    image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Lod0StyO1YKop-XnMT3a4AHaL0%26pid%3DApi&f=1"
+                    image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.dhD58VU4PaEln-tnmc-WPgHaHa%26pid%3DApi&f=1"
                 />
             </div>
 
             <div className="home_row">
                 <Product
-                    id="1612020100"
-                    title="Paper Craft: lorem external -content. duckduckgo.com"
-                    price="11.26"
+                    id="1712020106"
+                    title="Macbook Cover: lorem external -content. duckduckgo.com"
+                    price="13.26"
                     rating={3}
-                    image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Lod0StyO1YKop-XnMT3a4AHaL0%26pid%3DApi&f=1"
+                    image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.zeklw2xSB79jyigO_rUCkwHaHa%26pid%3DApi&f=1"
                 />
                 <Product
-                    id="1612020100"
-                    title="Paper Craft: lorem external -content. duckduckgo.com"
-                    price="11.26"
+                    id="1812020100"
+                    title="Canon 70D: lorem external -content. duckduckgo.com"
+                    price="14.26"
                     rating={5}
-                    image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Lod0StyO1YKop-XnMT3a4AHaL0%26pid%3DApi&f=1"
+                    image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.UbpuCUpvp0swFPi1-3ESJwHaFE%26pid%3DApi&f=1"
                 />
                 <Product
-                    id="1612020100"
-                    title="Paper Craft: lorem external -content. duckduckgo.com"
-                    price="11.26"
-                    rating={5}
-                    image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Lod0StyO1YKop-XnMT3a4AHaL0%26pid%3DApi&f=1"
+                    id="2112020109"
+                    title="Samsun Gear 3: lorem external -content. duckduckgo.com"
+                    price="15.26"
+                    rating={4}
+                    image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.iOXhw59wZSKm0JEholQ4IQHaE9%26pid%3DApi&f=1"
                 />
             </div>
 
